@@ -3,10 +3,9 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
-️ YT : Zeil Botz JANGAN LUPA SUBSCRIBE ️
-️ NOMOR : 081376900646 HEMAT JAN LUPA️S
-〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
-〽️ TIK TOK : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
+
+
+
 
 
 
@@ -25,7 +24,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}mute
 ║│${prefix}unmute
 ║│${prefix}public
-║│${prefix}stickerwm [ nama|author ]
+║│${ptickerwm [ nama|author ]
 ║│${prefix}tes
 ║│${prefix}self
 ║│${prefix}spam [ teks|jumlah ]
